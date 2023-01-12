@@ -1,4 +1,4 @@
-<h1 align="center"> Fruta e Fruto </h1> 
+<h1 align="center"> Fruta & Fruto </h1> 
   
 <h3 >:memo: Sobre o projeto </h3>
 
