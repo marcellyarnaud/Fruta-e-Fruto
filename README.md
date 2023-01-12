@@ -20,3 +20,6 @@ Este projeto é uma landing page criada durante o curso `Bootstrap 4: criando um
 - `CSS`
 - `HTML`
 - `Javascript`
+
+<h3> :link: Clique no link para ver o projeto no ar </h3>
+https://fruta-e-fruto-tau.vercel.app/#
